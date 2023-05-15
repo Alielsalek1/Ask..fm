@@ -18,4 +18,4 @@ The project includes a list of all system users, which can be accessed by loggin
 
 We welcome contributions to this project! If you find a bug or have an idea for a new feature, please feel free to submit a pull request. We also appreciate feedback and suggestions for how to improve the project.
 
-![Sample Image](/sample/Sample.png)
+![Sample Image](/Sample/Sample.png)
